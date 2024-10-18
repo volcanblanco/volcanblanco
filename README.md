@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @volcanblanco
-- 👀 I’m interested in Javasciprt
+- 👀 I’m interested in Javascript
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on webOS
 - 📫 How to reach me volkanblanco@gmail.com
