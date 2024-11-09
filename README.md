@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on webOS
 - 📫 How to reach me volkanblanco@gmail.com
-- 😄 Pronouns: Heterosexual
 - ⚡ A quote: You can't move on with thinking about everything
 
 <!---
