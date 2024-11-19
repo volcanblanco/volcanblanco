@@ -1,14 +1,14 @@
-Genious candidate I'm seeking:
+*Genious* candidate I'm seeking:
 
-- For starters candidate should have advanced knowledge of MySQL
-- Should like start-ups
-- Should like multiple projects
+- For starters candidate should have advanced *knowledge of MySQL*
+- Should like *start-up*s
+- Should like *multiple projects*
 - Proactive
 - Should take responsibility
-- We have 2 projects. (WebOS, WePay)
+- We have 2 projects. (*WebOS*, *WePay*)
 - Retirement guarantee
 
-- Candidate will have base salary + bonus for 2 separate projects.
+- Candidate will have *base salary* + *bonus* for 2 separate projects.
 
 - Tech Specs:
   - WebOS:
