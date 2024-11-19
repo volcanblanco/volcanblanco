@@ -1,3 +1,5 @@
+Genious candidate I'm seeking:
+
 - For starters candidate should have advanced knowledge of MySQL
 - Should like start-ups
 - Should like multiple projects
